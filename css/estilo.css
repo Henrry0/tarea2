@@ -1,0 +1,157 @@
+.main
+{
+    background-color: rgb(30, 232, 222);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /*important para bajar las cajas*/
+}
+.caja
+{
+    background-color: rgb(0, 51, 255);
+    display: flex;
+    width: 406px;
+    height: 570px;
+    margin: 5px;
+}
+#c1
+{
+    width: 109px;
+    height: 109px;
+    background-color: yellow;
+    position: relative;
+    margin: 12px;
+}
+.c2
+{
+    background-color: yellow;
+    width: 375px;
+    height: 130px;
+    position: absolute;
+    margin: 12px;
+    margin-top: 135px;
+}
+.c3
+{
+    background-color: yellow;
+    width: 375px;
+    height: 130px;
+    position: absolute;
+    margin: 12px;
+    margin-top: 290px;
+}
+.c4
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    margin: 12px;
+    margin-top: 440px;
+}
+.c5
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    left: 159px;
+    margin-top: 440px;
+}
+.c6
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    left: 290px;
+    margin-top: 440px;
+}
+.caja2
+{
+    background-color: rgb(0, 51, 255);
+    width: 406px;
+    height: 570px;
+    margin: 5px;
+}
+.c7
+{
+    background-color: yellow;
+    width: 375px;
+    height: 128px;
+    position: relative;
+    margin: 12px;
+}
+.c8
+{
+    width: 109px;
+    height: 109px;
+    background-color: yellow;
+    position: relative;
+    margin: 12px;
+    margin-top: 22px;
+}
+
+.caja3
+{
+    background-color: red;
+    display: flex;
+    width: 406px;
+    height: 570px;
+    margin: 5px;
+}
+
+.e1
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    margin: 12px;
+    margin-top: 155px;
+}
+.e2
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    left: 159px;
+    margin-top: 155px;
+}
+.e3
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    left: 290px;
+    margin-top: 155px;
+}
+
+.e4
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    margin: 12px;
+    margin-top: 295px;
+}
+.e5
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    left: 159px;
+    margin-top: 295px;
+}
+.e6
+{
+    background-color: yellow;
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    left: 290px;
+    margin-top: 295px;
+}
